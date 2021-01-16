@@ -1,6 +1,8 @@
-# ReddiBot! Invite it! Contribute to it!
+# Intro
 
-## Inviting ReddiBot
+## Getting started
+
+### Inviting RedditBot
 
 To invite ReddiBot, go to [https://redditbot-discord.web.app/invite](https://redditbot-discord.web.app/invite)
 
@@ -10,13 +12,13 @@ Make sure we have **Create slash commands** in your server otherwise RedditBot w
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-## Contributing
+### Using commands
 
-### Contributing to the bot
+Slash commands are new right now. No one really knows how to use them yet. Well, its as simple as typing **/** \(i know crazy right\)
 
-You cant contribute to the bot directly right now, trust me, we \(me\) are working on making it completely open source.
+See
 
-### Contributing to the docs
+{% page-ref page="get-info/commands.md" %}
 
-Right now you can help edit these docs this on [https://github.com/RedditBot-Team/docs](https://github.com/RedditBot-Team/docs)
+for a full list of them all.
 

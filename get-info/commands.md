@@ -7,7 +7,7 @@ description: List of guides for all the documented commands
 * **/help**
 
 {% hint style="info" %}
-**/help** just links here
+**/help** just links [here](commands.md)
 {% endhint %}
 
 * **/user `username`**

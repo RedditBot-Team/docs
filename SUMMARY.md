@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ReddiBot! Invite it!](README.md)
+* [ReddiBot! Invite it! Contribute to it!](README.md)
 * [Invite](https://redditbot-discord.web.app/invite)
 * [Topgg](https://top.gg/bot/437439562386505730)
 

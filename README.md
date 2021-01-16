@@ -16,9 +16,7 @@ Make sure we have **Create slash commands** in your server otherwise RedditBot w
 
 Slash commands are new right now. No one really knows how to use them yet. Well, its as simple as typing **/** \(i know crazy right\)
 
-See
+See the commands section for a full run down of them all.
 
 {% page-ref page="get-info/commands.md" %}
-
-for a full list of them all.
 

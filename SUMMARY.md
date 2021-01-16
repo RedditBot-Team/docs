@@ -9,7 +9,7 @@
 * [Contributing](topics/contributing.md)
 * [NSFW content, and where its allowed](topics/nsfw.md)
 
-## Getting Infomation with RedditBot <a id="get-info"></a>
+## Commands <a id="get-info"></a>
 
 * [Commands](get-info/commands.md)
 * [Get info on a user](get-info/user.md)

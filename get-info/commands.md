@@ -19,6 +19,7 @@ description: List of guides for all the documented commands
 {% page-ref page="subreddit.md" %}
 
 * **/subscribe `channel` `subreddit`**
+* **/unsubscribe**
 
 {% page-ref page="subscriptions.md" %}
 

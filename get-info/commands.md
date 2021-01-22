@@ -27,7 +27,7 @@ description: List of guides for all the documented commands
   * `subreddit`
 
 {% hint style="warning" %}
-Requires MANGAGE\_WEBHOOK member permisson for the channel.
+Requires MANGAGE\_WEBHOOK member permission for `text_channel`.
 {% endhint %}
 
 {% hint style="warning" %}

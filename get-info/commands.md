@@ -27,11 +27,8 @@ description: List of guides for all the documented commands
   * `subreddit`
 
 {% hint style="warning" %}
-Requires MANGAGE\_WEBHOOK member permission for `text_channel`.
-{% endhint %}
-
-{% hint style="warning" %}
-`subbreddit`Cannot be "all"
+1. `subbreddit`Cannot be "all"
+2. Requires MANGAGE\_WEBHOOK member permission for `text_channel`.
 {% endhint %}
 
 {% page-ref page="subscriptions.md" %}

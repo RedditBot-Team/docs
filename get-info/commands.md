@@ -10,16 +10,29 @@ description: List of guides for all the documented commands
 **/help** just links [here](commands.md)
 {% endhint %}
 
-* **/user `username`**
+* **/user** 
+  * **`username`**
+* **/whois**
+  * **`user`**
 
 {% page-ref page="user.md" %}
 
-* **/subreddit `subreddit`**
+* **/subreddit** 
+  * **`subreddit`**
 
 {% page-ref page="subreddit.md" %}
 
-* **/subscribe `channel` `subreddit`**
-* **/unsubscribe**
+* **/subscribe**
+  * `text_channel`
+  * `subreddit`
+
+{% hint style="warning" %}
+Requires MANGAGE\_WEBHOOK member permisson for the channel.
+{% endhint %}
+
+{% hint style="warning" %}
+`subbreddit`Cannot be "all"
+{% endhint %}
 
 {% page-ref page="subscriptions.md" %}
 

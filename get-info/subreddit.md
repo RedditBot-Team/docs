@@ -4,7 +4,7 @@ To get info on a user, we are going to use the **/subreddit** command, which tak
 
 ![The power of slash commands!](../.gitbook/assets/image%20%285%29.png)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 This command follows [nsfw content rules](../topics/nsfw.md)
 {% endhint %}
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Invite](https://redditbot-discord.web.app/invite)
+* [Invite](https://redditbot.bwac.dev/invite)
 * [Topgg](https://top.gg/bot/437439562386505730)
 
 ## topics

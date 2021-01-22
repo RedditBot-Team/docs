@@ -14,7 +14,7 @@ Creating a stream is super easy.
 
 You'll start recving new submissions to that channel shortly
 
-{% hint style="info" %}
+{% hint style="warning" %}
 If its a subreddit RedditBot hasn't seen before, it can take up to 5 minutes or so
 {% endhint %}
 

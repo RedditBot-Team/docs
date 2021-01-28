@@ -27,8 +27,7 @@ description: List of guides for all the documented commands
   * `subreddit`
 
 {% hint style="warning" %}
-1. `subbreddit`Cannot be "all"
-2. Requires MANGAGE\_WEBHOOK member permission.
+Only a server memeber can use this command
 {% endhint %}
 
 {% page-ref page="subscriptions.md" %}

@@ -10,10 +10,10 @@ description: List of guides for all the documented commands
 **/help** just links [here](commands.md)
 {% endhint %}
 
-* **/user** 
+* **/user username**
   * **`username`**
-* **/whois**
-  * **`user`**
+* **/user member**
+  * **`member`**
 
 {% page-ref page="user.md" %}
 

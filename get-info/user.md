@@ -1,8 +1,8 @@
 # Get info on a user
 
-To get info on a user, we are going to use the **/user** command, which takes in a **username \(string\)** parameter and nothing else.
+To get info on a user, we are going to use the **/user username** command, which takes in a **username \(string\)** parameter and nothing else.
 
-![The power of slash commands!](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 {% hint style="warning" %}
 This command follows [nsfw content rules](../topics/nsfw.md)

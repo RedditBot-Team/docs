@@ -15,7 +15,7 @@ description: List of guides for all the documented commands
 * **/user member**
   * **`member`**
 
-{% page-ref page="user.md" %}
+{% page-ref page="user/" %}
 
 * **/subreddit** 
   * **`subreddit`**

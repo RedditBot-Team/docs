@@ -22,15 +22,21 @@ description: List of guides for all the documented commands
 
 {% page-ref page="subreddit.md" %}
 
-* **/subscribe**
+* **/subscriptions subscribe**
   * `text_channel`
   * `subreddit`
 
 {% hint style="warning" %}
-Only a server memeber can use this command
+Only a server owner can use this command
 {% endhint %}
 
 {% page-ref page="subscriptions.md" %}
 
+* **/subscriptions summary**
+  * `text_channel`
+  * `subreddit`
 
+{% hint style="warning" %}
+Only a server owner can use this command
+{% endhint %}
 

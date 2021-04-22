@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Intro](README.md)
-* [Donate](donate.md)
 * [Invite](https://redditbot.bwac.dev/invite)
 * [Topgg](https://top.gg/bot/437439562386505730)
 

@@ -4,7 +4,7 @@
 
 ### Contributing to the bot
 
-You cant contribute to the bot directly right now, trust me, we \(me\) are working on making it completely open source.
+You can find the bot at [https://github.com/RedditBot-Discord/redditbot](https://github.com/RedditBot-Discord/redditbot)
 
 ### Contributing to the docs
 

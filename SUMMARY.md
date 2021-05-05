@@ -12,8 +12,7 @@
 ## Commands <a id="get-info"></a>
 
 * [Commands](get-info/commands.md)
-* [Get info on a user](get-info/user/README.md)
-  * [Get info on a member's connected account](get-info/user/member.md)
+* [Get info on a user](get-info/user.md)
 * [Get info on a subreddit](get-info/subreddit.md)
 * [Subscriptions](get-info/subscriptions.md)
 

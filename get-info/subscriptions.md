@@ -34,9 +34,3 @@ To remove a stream, delete the webhook that RedditBot made
 
 ![](../.gitbook/assets/image%20%287%29.png)
 
-## Finding all the streams in your server
-
-To find all your stream webhooks, navigate here.
-
-![](../.gitbook/assets/image%20%288%29.png)
-

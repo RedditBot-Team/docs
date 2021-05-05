@@ -10,19 +10,17 @@ description: List of guides for all the documented commands
 **/help** just links [here](commands.md)
 {% endhint %}
 
-* **/user username**
+* **/user**
   * **`username`**
-* **/user member**
-  * **`member`**
 
-{% page-ref page="user/" %}
+{% page-ref page="user.md" %}
 
 * **/subreddit** 
   * **`subreddit`**
 
 {% page-ref page="subreddit.md" %}
 
-* **/subscriptions subscribe**
+* **/subscriptions live**
   * `text_channel`
   * `subreddit`
 

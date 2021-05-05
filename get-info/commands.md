@@ -24,6 +24,8 @@ description: List of guides for all the documented commands
   * `text_channel`
   * `subreddit`
 
+Subscribe a channel for live updating posts
+
 {% hint style="warning" %}
 Only a server owner can use this command
 {% endhint %}
@@ -33,6 +35,8 @@ Only a server owner can use this command
 * **/subscriptions summary**
   * `text_channel`
   * `subreddit`
+
+Subscribe a channel for daily updates on the top posts that day
 
 {% hint style="warning" %}
 Only a server owner can use this command

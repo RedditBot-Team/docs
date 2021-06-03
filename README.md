@@ -4,7 +4,7 @@
 
 ### Inviting RedditBot
 
-To invite RedditBot, go to [https://redditbot-discord.web.app/invite](https://redditbot-discord.web.app/invite)
+To invite RedditBot, go to [https://redditbot-discord.web.app/invite](https://top.gg/bot/437439562386505730/invite/)
 
 {% hint style="info" %}
 Make sure we have **Create slash commands** in your server otherwise RedditBot won't work!
